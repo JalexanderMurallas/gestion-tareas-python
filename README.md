@@ -28,4 +28,9 @@ https://youtu.be/LePDzpNP7O0
 ```bash
 pip install -r requirements.txt
 ```
-    
+
+* ejecutar
+
+```bash
+streamlit run app.py
+```
